@@ -4,10 +4,10 @@
 ![VisualScriptingWithDlibFaceLandmarkDetectorExample](https://github.com/EnoxSoftware/VisualScriptingWithDlibFaceLandmarkDetectorExample/assets/7920392/e520df28-6f4a-4bcc-834f-adc7aa0574a8)
 
 ## Environment
-* Unity 2021.3.28f1
-* [Dlib FaceLandmarkDetector](https://assetstore.unity.com/packages/tools/integration/dlib-facelandmark-detector-64314?aid=1011l4ehR) 1.3.4+
-* [OpenCV for Unity](https://assetstore.unity.com/packages/tools/integration/opencv-for-unity-21088?aid=1011l4ehR) 2.5.5+
-* Visual Scripting 1.8.0
+* Unity 2021.3.35f1
+* [Dlib FaceLandmarkDetector](https://assetstore.unity.com/packages/tools/integration/dlib-facelandmark-detector-64314?aid=1011l4ehR) 2.0.0+
+* [OpenCV for Unity](https://assetstore.unity.com/packages/tools/integration/opencv-for-unity-21088?aid=1011l4ehR) 3.0.0+
+* Visual Scripting 1.9.8
 
 
 ## Setup
